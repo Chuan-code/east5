@@ -2,6 +2,8 @@
 <module type="DBE_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
+    <content url="file://$APPLICATION_HOME_DIR$/datagrip_quary/fmbank_east5" />
+    <content url="file://E:/fmbank_east5/fmbank_east5" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
