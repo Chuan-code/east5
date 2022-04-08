@@ -1,15 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="east5_rule" type="DatabaseScript">
-    <script-file value="$USER_HOME$/east5/fmbank_east5/fmbank_east5/ods_adm_非联合贷款.sql" />
-    <script-file value="$USER_HOME$/east5/fmbank_east5/fmbank_east5/ods_lhs_xhs_mappping.sql" />
-    <script-file value="$USER_HOME$/east5/fmbank_east5/fmbank_east5/ods_adm_联合贷款_pre.sql" />
-    <script-file value="$USER_HOME$/east5/fmbank_east5/fmbank_east5/ods_adm_联合贷款.sql" />
-    <script-file value="$USER_HOME$/east5/fmbank_east5/fmbank_east5/dws_adm_total.sql" />
-    <script-file value="$USER_HOME$/east5/fmbank_east5/fmbank_east5/dws_oracle_hive_mapping.sql" />
-    <script-file value="$USER_HOME$/east5/fmbank_east5/fmbank_east5/dws_rule_total.sql" />
-    <script-file value="$USER_HOME$/east5/fmbank_east5/fmbank_east5/dws_报送层_total.sql" />
-    <script-file value="$USER_HOME$/east5/fmbank_east5/fmbank_east5/ads_报送层_to_ods.sql" />
-    <script-file value="$USER_HOME$/east5/fmbank_east5/fmbank_east5/res_east5_mark.sql" />
+    <script-file value="$PROJECT_DIR$/fmbank_east5/fmbank_east5/ads_报送层_to_ods.sql" />
     <script-mode>FILE</script-mode>
     <data-source id="7076ceb9-8c7b-4442-a3c8-56180670f3f1" namespace="schema/&quot;fmbank_east5&quot;" />
     <method v="2" />
