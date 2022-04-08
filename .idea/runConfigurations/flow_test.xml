@@ -1,6 +1,8 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="flow_test" type="DatabaseScript">
-    <script-file value="E:/fmbank_east5/fmbank_east5/test123.sql" />
+    <script-file value="$PROJECT_DIR$/test1.sql" />
+    <script-file value="$PROJECT_DIR$/test2.sql" />
+    <script-file value="$PROJECT_DIR$/test3.sql" />
     <script-mode>FILE</script-mode>
     <data-source id="7076ceb9-8c7b-4442-a3c8-56180670f3f1" namespace="schema/&quot;fmbank_east5&quot;" />
     <method v="2" />
